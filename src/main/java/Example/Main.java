@@ -6,5 +6,7 @@ public class Main {
         ListTraining.trainList();
         System.out.println("setTraining");
         SetTraining.trainSet();
+        System.out.println("MapTraining");
+        MapTraining.mapTrain();
     }
 }
